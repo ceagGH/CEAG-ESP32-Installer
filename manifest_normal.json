@@ -1,11 +1,11 @@
 {
     "name": "Smart Clock ESP32",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "builds": [
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "firmware/merged_all.bin", "offset": 0 }
+          { "path": "firmware/merged_allv010100.bin", "offset": 0 }
         ]
       }
     ]
